@@ -4,6 +4,10 @@ HTML digunakan untuk membentuk bagian-bagian halaman, seperti judul, formulir, t
 CSS untuk mengatur tampilan agar aplikasi terlihat lebih menarik, mulai dari warna, ukuran tulisan, jarak antarbagian, hingga tata letak halaman.
 JavaScript untuk menambahkan fungsi agar aplikasi dapat berinteraksi dengan pengguna. Contohnya seperti memeriksa data login, menambahkan data buku, dan memproses pemesanan.
 
+Pertama terdapat halaman login. Pengguna harus memasukkan email dan password terlebih dahulu untuk masuk ke aplikasi.
+Jika informasi yang dimasukkan benar, pengguna akan diarahkan ke halaman utama. Jika salah, sistem akan memberikan pemberitahuan bahwa login gagal.
+Pada halaman ini juga terdapat fitur lupa password dan daftar yang ditampilkan melalui pop-up atau modal.
+
 <img width="960" height="600" alt="ss1" src="https://github.com/user-attachments/assets/f5680283-8150-436e-b253-7eeec2a1f614" />
 
 <img width="960" height="600" alt="ss2" src="https://github.com/user-attachments/assets/54744fc1-a877-423e-9a14-861301421efd" />
