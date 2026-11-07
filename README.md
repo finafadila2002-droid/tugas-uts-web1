@@ -52,4 +52,5 @@ Informasi yang ditampilkan meliputi nama pembeli, status pengiriman, nama kurir,
 
 
 Riwayat Transaksi ini berfungsi sebagai bukti transaksi bagi pengguna serta sebagai rekapitulasi penjualan bagi pengelola.
+
 <img width="589" height="159" alt="ss12" src="https://github.com/user-attachments/assets/065b483f-5f9d-4165-9cd0-3cdca0218af4" />
