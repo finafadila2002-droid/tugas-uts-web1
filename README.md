@@ -10,11 +10,17 @@ Pada halaman ini juga terdapat fitur lupa password dan daftar yang ditampilkan m
 
 <img width="960" height="600" alt="ss1" src="https://github.com/user-attachments/assets/f5680283-8150-436e-b253-7eeec2a1f614" />
 
+
 Setelah berhasil login, pengguna akan masuk ke halaman dashboard.
 Halaman ini merupakan halaman utama yang berisi beberapa menu untuk mengakses fitur aplikasi. Terdapat menu katalog buku, stok, checkout, dan tracking.
 Pada bagian dashboard juga terdapat sapaan yang menyesuaikan waktu pengguna membuka aplikasi.
 
 <img width="960" height="600" alt="ss2" src="https://github.com/user-attachments/assets/54744fc1-a877-423e-9a14-861301421efd" />
+
+
+Selanjutnya adalah halaman stok buku. Pada halaman ini, pengguna dapat melihat informasi buku yang tersedia.
+Informasi yang ditampilkan meliputi kode buku, nama buku, penulis, harga, dan jumlah stok.
+Pengguna juga dapat menambahkan data buku baru melalui formulir. Setelah tombol tambah ditekan, data akan ditampilkan pada tabel.
 
 <img width="960" height="600" alt="ss3" src="https://github.com/user-attachments/assets/a591e33a-49e9-45d1-afd6-d7f0e2f6f797" />
 
