@@ -1,5 +1,9 @@
 # tugas-uts-web1
-Aplikasi toko buku online dengan nama BukuKita dibuat untuk mempermudah proses pengelolaan buku, mulai dari melihat daftar buku, mengatur stok, melakukan pemesanan, hingga mengetahui status pengiriman.
+Aplikasi toko buku online dengan nama BukuKita dibuat untuk mempermudah proses pengelolaan buku, mulai dari melihat daftar buku, mengatur stok, melakukan pemesanan, hingga mengetahui status pengiriman. Dalam pembuatan aplikasi ini menggunakan tiga bahasa pemrograman web, yaitu HTML, CSS, dan JavaScript. 
+HTML digunakan untuk membentuk bagian-bagian halaman, seperti judul, formulir, tombol, menu, dan tabel.
+CSS untuk mengatur tampilan agar aplikasi terlihat lebih menarik, mulai dari warna, ukuran tulisan, jarak antarbagian, hingga tata letak halaman.
+JavaScript untuk menambahkan fungsi agar aplikasi dapat berinteraksi dengan pengguna. Contohnya seperti memeriksa data login, menambahkan data buku, dan memproses pemesanan.
+
 <img width="960" height="600" alt="ss1" src="https://github.com/user-attachments/assets/f5680283-8150-436e-b253-7eeec2a1f614" />
 
 <img width="960" height="600" alt="ss2" src="https://github.com/user-attachments/assets/54744fc1-a877-423e-9a14-861301421efd" />
