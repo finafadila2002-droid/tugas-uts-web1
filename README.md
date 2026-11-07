@@ -28,6 +28,11 @@ Pengguna juga dapat menambahkan data buku baru melalui formulir. Setelah tombol 
 
 <img width="960" height="600" alt="ss5" src="https://github.com/user-attachments/assets/76b78ed8-fc5b-4eea-b5f2-6b938ebee592" />
 
+
+Berikutnya adalah halaman checkout. Halaman ini digunakan untuk memasukkan informasi pembeli dan data buku yang akan dipesan.
+Pengguna dapat mengisi data pemesanan, menentukan jumlah buku, serta memasukkan informasi pembayaran.
+Setelah data diisi, pengguna dapat menyimpan pesanan. Data yang berhasil diproses akan ditampilkan sesuai dengan fungsi yang tersedia pada aplikasi.
+
 <img width="960" height="600" alt="ss6" src="https://github.com/user-attachments/assets/585748fb-7a7e-4be2-b96d-339781dbbd60" />
 
 <img width="960" height="600" alt="ss7" src="https://github.com/user-attachments/assets/f8a10e1e-be52-4fd5-b7ec-58b052d72565" />
@@ -36,8 +41,15 @@ Pengguna juga dapat menambahkan data buku baru melalui formulir. Setelah tombol 
 
 <img width="960" height="600" alt="ss9" src="https://github.com/user-attachments/assets/0ae19c20-f4fb-48a4-b61f-d80dfe663958" />
 
+
+Halaman terakhir adalah tracking. Fitur ini digunakan untuk mengetahui status pengiriman pesanan.
+Pengguna memasukkan nomor Delivery Order atau DO. Selanjutnya, sistem akan mencari data pesanan dan menampilkan informasi pengiriman jika nomor tersebut ditemukan.
+Informasi yang ditampilkan meliputi nama pembeli, status pengiriman, nama kurir, tanggal pengiriman, jenis paket, dan total pembayaran.
+
 <img width="960" height="600" alt="ss10" src="https://github.com/user-attachments/assets/2b59fda6-50c4-4e27-b3fb-0c3d60b6e5ee" />
 
 <img width="960" height="600" alt="ss11" src="https://github.com/user-attachments/assets/4e0b65d2-cb66-404d-80fa-d9fd07e02708" />
 
+
+Riwayat Transaksi ini berfungsi sebagai bukti transaksi bagi pengguna serta sebagai rekapitulasi penjualan bagi pengelola.
 <img width="589" height="159" alt="ss12" src="https://github.com/user-attachments/assets/065b483f-5f9d-4165-9cd0-3cdca0218af4" />
